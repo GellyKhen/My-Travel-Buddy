@@ -1,0 +1,42 @@
+C:\Users\Gelkhen\Desktop\RikoPrograms\My Travel Buddy\My Travel Buddy\bin\Debug\My Travel Buddy.exe.config
+C:\Users\Gelkhen\Desktop\RikoPrograms\My Travel Buddy\My Travel Buddy\bin\Debug\My Travel Buddy.exe
+C:\Users\Gelkhen\Desktop\RikoPrograms\My Travel Buddy\My Travel Buddy\bin\Debug\My Travel Buddy.pdb
+C:\Users\Gelkhen\Desktop\RikoPrograms\My Travel Buddy\My Travel Buddy\bin\Debug\My Travel Buddy.xml
+C:\Users\Gelkhen\Desktop\RikoPrograms\My Travel Buddy\My Travel Buddy\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Gelkhen\Desktop\RikoPrograms\My Travel Buddy\My Travel Buddy\obj\Debug\My Travel Buddy.vbproj.GenerateResource.Cache
+C:\Users\Gelkhen\Desktop\RikoPrograms\My Travel Buddy\My Travel Buddy\obj\Debug\My Travel Buddy.exe
+C:\Users\Gelkhen\Desktop\RikoPrograms\My Travel Buddy\My Travel Buddy\obj\Debug\My Travel Buddy.xml
+C:\Users\Gelkhen\Desktop\RikoPrograms\My Travel Buddy\My Travel Buddy\obj\Debug\My Travel Buddy.pdb
+C:\Users\Gelkhen\Desktop\RikoPrograms\My Travel Buddy\My Travel Buddy\obj\Debug\WindowsApplication1._frmmainuser.resources
+C:\Users\Gelkhen\Desktop\RikoPrograms\My Travel Buddy\My Travel Buddy\obj\Debug\WindowsApplication1._frmregion1.resources
+C:\Users\Gelkhen\Desktop\RikoPrograms\My Travel Buddy\My Travel Buddy\obj\Debug\WindowsApplication1._frmregion2.resources
+C:\Users\Gelkhen\Desktop\RikoPrograms\My Travel Buddy\My Travel Buddy\obj\Debug\WindowsApplication1._frmregion3.resources
+C:\Users\Ronnie\Desktop\My Travel Buddy\My Travel Buddy\bin\Debug\My Travel Buddy.exe.config
+C:\Users\Ronnie\Desktop\My Travel Buddy\My Travel Buddy\obj\Debug\My Travel Buddy.exe
+C:\Users\Ronnie\Desktop\My Travel Buddy\My Travel Buddy\obj\Debug\My Travel Buddy.xml
+C:\Users\Ronnie\Desktop\My Travel Buddy\My Travel Buddy\obj\Debug\My Travel Buddy.pdb
+C:\Users\Ronnie\Desktop\My Travel Buddy\My Travel Buddy\bin\Debug\My Travel Buddy.exe
+C:\Users\Ronnie\Desktop\My Travel Buddy\My Travel Buddy\bin\Debug\My Travel Buddy.pdb
+C:\Users\Ronnie\Desktop\My Travel Buddy\My Travel Buddy\bin\Debug\My Travel Buddy.xml
+C:\Users\Ronnie\Desktop\My Travel Buddy\My Travel Buddy\obj\Debug\My Travel Buddy.vbprojResolveAssemblyReference.cache
+C:\Users\Ronnie\Desktop\My Travel Buddy\My Travel Buddy\obj\Debug\WindowsApplication1._frmmainuser.resources
+C:\Users\Ronnie\Desktop\My Travel Buddy\My Travel Buddy\obj\Debug\WindowsApplication1._frmregion1.resources
+C:\Users\Ronnie\Desktop\My Travel Buddy\My Travel Buddy\obj\Debug\WindowsApplication1._frmregion2.resources
+C:\Users\Ronnie\Desktop\My Travel Buddy\My Travel Buddy\obj\Debug\WindowsApplication1._frmregion3.resources
+C:\Users\Ronnie\Desktop\My Travel Buddy\My Travel Buddy\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ronnie\Desktop\My Travel Buddy\My Travel Buddy\obj\Debug\My Travel Buddy.vbproj.GenerateResource.Cache
+C:\Users\Gelkhen\Desktop\My Travel Buddy-user\My Travel Buddy\bin\Debug\My Travel Buddy.exe.config
+C:\Users\Gelkhen\Desktop\My Travel Buddy-user\My Travel Buddy\obj\Debug\My Travel Buddy.exe
+C:\Users\Gelkhen\Desktop\My Travel Buddy-user\My Travel Buddy\obj\Debug\My Travel Buddy.xml
+C:\Users\Gelkhen\Desktop\My Travel Buddy-user\My Travel Buddy\obj\Debug\My Travel Buddy.pdb
+C:\Users\Gelkhen\Desktop\My Travel Buddy-user\My Travel Buddy\bin\Debug\My Travel Buddy.exe
+C:\Users\Gelkhen\Desktop\My Travel Buddy-user\My Travel Buddy\bin\Debug\My Travel Buddy.pdb
+C:\Users\Gelkhen\Desktop\My Travel Buddy-user\My Travel Buddy\bin\Debug\My Travel Buddy.xml
+C:\Users\Gelkhen\Desktop\My Travel Buddy-user\My Travel Buddy\obj\Debug\My Travel Buddy.vbprojResolveAssemblyReference.cache
+C:\Users\Gelkhen\Desktop\My Travel Buddy-user\My Travel Buddy\obj\Debug\WindowsApplication1._frmmainuser.resources
+C:\Users\Gelkhen\Desktop\My Travel Buddy-user\My Travel Buddy\obj\Debug\WindowsApplication1._frmregion1.resources
+C:\Users\Gelkhen\Desktop\My Travel Buddy-user\My Travel Buddy\obj\Debug\WindowsApplication1._frmregion2.resources
+C:\Users\Gelkhen\Desktop\My Travel Buddy-user\My Travel Buddy\obj\Debug\WindowsApplication1._frmregion3.resources
+C:\Users\Gelkhen\Desktop\My Travel Buddy-user\My Travel Buddy\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Gelkhen\Desktop\My Travel Buddy-user\My Travel Buddy\obj\Debug\My Travel Buddy.vbproj.GenerateResource.Cache
+C:\Users\Gelkhen\Desktop\My Travel Buddy-user\My Travel Buddy\obj\Debug\WindowsApplication1._frmncr.resources
